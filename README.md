@@ -1,6 +1,6 @@
 # Children-Math-Learning-System
 
-This system is developed using Java language, and is used for children of age 6 to 8 years old for math learning purpose.
+This system is developed using *Java* language, and is used for children of age 6 to 8 years old for math learning purpose.
 At the start of the system, children can choose the topics that they want to learn from
 the main menu. At the end of each topic, there will be quizzes to test their understandings, and
 the marks will be recorded. Children can view their results at the “Quiz Results” section in the
