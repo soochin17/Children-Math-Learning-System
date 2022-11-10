@@ -6,5 +6,7 @@ the main menu. At the end of each topic, there will be quizzes to test their und
 the marks will be recorded. Children can view their results at the “Quiz Results” section in the
 main menu. The results of the quizzes will also be saved into a text file named “result.txt” that is stored in the same folder as the source files. When the system is closed, the text file will be deleted to refresh the quiz results for the next user.
 
+> Multimedia resources are unable to upload on Github.
+
 ## Screenshots of program
 ![12](https://user-images.githubusercontent.com/93151327/201014287-b48af1e5-b398-46a9-abd2-7ba5f38bcbed.jpg)
